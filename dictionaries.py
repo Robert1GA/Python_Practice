@@ -18,7 +18,6 @@ if result:
 else:
     print('key does not exist:', result)
 
-
 print(food)
 # To print the value of a key -
 print(food['meat'])
